@@ -1,1 +1,2 @@
-stash file created
+stash file create
+stash file modified
