@@ -1,1 +1,1 @@
-Subtraction is done
+c=a-b;Subtraction is done
